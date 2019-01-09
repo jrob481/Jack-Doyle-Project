@@ -15,12 +15,13 @@ footer {
 }
 
 .jumbotron {
-  background-image: url(/Users/jrob481/JackieD/wade-lambert-767095-unsplash.jpg);
+  background-image: url(https://photos.google.com/photo/AF1QipPxdZwJ_2Pjl7JdjIpyAxLl2CU85X1MEc_IO5uj);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   height: 50rem;
   margin-top: -20px;
+
 }
 
 .jumbotron h1 {
