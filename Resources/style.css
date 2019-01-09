@@ -1,0 +1,15 @@
+footer p {
+  text-align: right;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: lightgray;
+  height: 10rem;
+}
+
+.social {
+  text-align: center;
+  letter-spacing: 10px;
+  padding-top: 40px;
+}
