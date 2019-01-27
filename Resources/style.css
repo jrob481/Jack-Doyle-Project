@@ -6,6 +6,10 @@ header {
   opacity: 0.85;
 }
 
+.form-group {
+  margin-left: 770px;
+}
+
 footer p {
   text-align: right;
   font-size: 12px;
@@ -31,9 +35,14 @@ footer {
   height: 50rem;
   margin-top: 52px;
 }
-
+.row {
+  border: solid black;
+  height: 100rem;
+  width: 100% auto;
+}
 .row img {
-  width: 90%;
+  width: 100%;
+  
 
 }
 @media only screen and (max-width: 450px){
